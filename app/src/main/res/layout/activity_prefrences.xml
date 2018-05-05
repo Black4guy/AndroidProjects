@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/bg_image"
+    tools:context=".Prefrences">
+
+    <LinearLayout
+        android:layout_width="310dp"
+        android:layout_height="400dp"
+        android:orientation="vertical"
+        android:layout_centerInParent="true"
+        android:background="@drawable/relative_layout"
+        android:elevation="4dp"
+        >
+
+        <CheckBox
+             android:id="@+id/monument"
+            android:layout_width="match_parent"
+            android:layout_height="50dp"
+            android:text="Monuments"
+            android:textSize="20sp">
+
+        </CheckBox>
+        <CheckBox
+            android:id="@+id/food"
+            android:layout_width="match_parent"
+            android:layout_height="50dp"
+            android:text="Food"
+            android:textSize="20sp">
+
+        </CheckBox>
+        <CheckBox
+            android:id="@+id/theaters"
+            android:layout_width="match_parent"
+            android:layout_height="50dp"
+            android:text="Theaters"
+            android:textSize="20sp">
+
+        </CheckBox>
+        <CheckBox
+            android:id="@+id/shopping"
+            android:layout_width="match_parent"
+            android:layout_height="50dp"
+            android:text="Shopping"
+            android:textSize="20sp">
+
+        </CheckBox>
+        <CheckBox
+            android:id="@+id/cafeteria"
+            android:layout_width="match_parent"
+            android:layout_height="50dp"
+            android:text="Cafeteria"
+            android:textSize="20sp">
+
+        </CheckBox>
+        <CheckBox
+            android:id="@+id/malls"
+            android:layout_width="match_parent"
+            android:layout_height="50dp"
+            android:text="Malls"
+            android:textSize="20sp">
+
+        </CheckBox>
+
+        <Button
+            android:id="@+id/save_Type"
+            android:layout_width="106dp"
+            android:layout_height="50dp"
+            android:background="#4d1a7f"
+            android:text="NEXT"
+            android:layout_marginRight="30dp"
+            android:layout_marginTop="20dp"
+            android:layout_gravity="right"
+            android:textColor="#ffffff"
+            android:textSize="20sp">
+
+        </Button>
+    </LinearLayout>
+</RelativeLayout>

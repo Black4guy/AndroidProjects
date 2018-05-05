@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "182601865609",
+    "firebase_url": "https://sctfirebaseproject.firebaseio.com",
+    "project_id": "sctfirebaseproject",
+    "storage_bucket": "sctfirebaseproject.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:182601865609:android:fd39d99d5aa8bd5f",
+        "android_client_info": {
+          "package_name": "com.example.praveen.sct"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "182601865609-1t77424h8v00c6ch65ijop9819poftrj.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.praveen.sct",
+            "certificate_hash": "ff37612fb5d33624c59e94eda01c00a3eb9ea311"
+          }
+        },
+        {
+          "client_id": "182601865609-qhmiv8k8i0ka22vftefk1a3nq6qfemcq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAPtjbwFhQVJSal5NtjSQ_a2Y9_wAwu_kY"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "182601865609-qhmiv8k8i0ka22vftefk1a3nq6qfemcq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
