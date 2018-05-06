@@ -13,8 +13,8 @@
     <string name="skip">SKIP</string>
     <string name="start">GOT IT</string>
 
-    <string name="foursquare_client_id">JNV0TZEYDVWX4LBNU4DRZC4PGMCYWYPYFH0D2R4ZLD51NTQV</string>
-    <string name="foursquare_client_secret">ZAIGFDZQAE0CR2NRRUNUB3LPS1HTKAWTMNJQVFOV2XC4V25W</string>
+    <string name="foursquare_client_id">CLIENT ID</string>
+    <string name="foursquare_client_secret">CLIENT KEY</string>
     <string name="location_permission_denied">permission denied</string>
 
     <string name="mail_feedback_email">preetam.pg14@gmail.com</string>
