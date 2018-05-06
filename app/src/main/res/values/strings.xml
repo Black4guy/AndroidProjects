@@ -17,7 +17,7 @@
     <string name="foursquare_client_secret">CLIENT KEY</string>
     <string name="location_permission_denied">permission denied</string>
 
-    <string name="mail_feedback_email">preetam.pg14@gmail.com</string>
+    <string name="mail_feedback_email">YOUR MAIL FOR FEEDBACK</string>
     <string name="mail_feedback_subject">Feedback on your app</string>
     <string name="mail_feedback_message">Hi,
       \n\nYour app rocks! I would like to give you some feedback:</string>
